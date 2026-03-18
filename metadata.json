@@ -1,0 +1,5 @@
+{
+  "name": "NameRecall",
+  "description": "An adaptive spaced-repetition app to help you remember people's names using their photos and correct pronunciation.",
+  "requestFramePermissions": ["microphone"]
+}
